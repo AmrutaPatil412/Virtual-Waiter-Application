@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RESTO</string>
+    <string name="textview">TextView</string>
+    <string name="procced">PROCCED</string>
+    <string name="tabno">Name</string>
+    <string name="enter_table_number">Enter Table Number</string>
+    <string name="welcome_to_amruta_s_restaurant">Welcome To Amruta\'s Restaurant..</string>
+    <string name="here_you_can_order_food_by_procceding">Here you can order food by procceding!!</string>
+    <string name="procced1">PROCCED</string>
+    <string name="enter_here">Enter here...</string>
+    <string name="Menu" />
+    <string name="menu">Menu</string>
+    <string name="Veg" />
+    <string name="non_veg">Non-Veg</string>
+    <string name="desserts">Desserts</string>
+    <string name="veg_soup_80">Veg Soup(₹80)</string>
+    <string name="add">ADD</string>
+
+    <string name="masala_papad_30">Masala Papad(₹30)</string>
+    <string name="veg_crispy_150">Veg Crispy(₹150)</string>
+    <string name="chiken_crispy_170">Chiken Crispy(₹170)</string>
+    <string name="paneer_chilly_120">Paneer Chilly(₹120)</string>
+    <string name="proceed">PROCEED</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="todo">TODO</string>
+    <string name="your_order_is">Your Order is:</string>
+    <string name="list_view">List View</string>
+    <string name="price_view">Price View</string>
+    <string name="please_click_send_order_if_u_want_to_confirm_the_above_order_else_u_can_change_your_order_by_clicking_on_main_menu">Please Click send order if u want to confirm the above order else u can change your order by clicking on Main Menu</string>
+    <string name="send_order">Send Order</string>
+    <string name="roti_20">Roti(₹20)</string>
+    <string name="butter_roti_25">Butter Roti(₹25)</string>
+    <string name="paneer_tikka_180">Paneer Tikka(₹180)</string>
+    <string name="muttor_paneer_200">Muttor Paneer(₹200)</string>
+    <string name="veg_pulao_200">Veg Pulao(₹200)</string>
+    <string name="dessert">Dessert</string>
+    <string name="proccedd">Procced</string>
+    <string name="veg">Veg</string>
+    <string name="non_vegg">Non Veg</string>
+    <string name="starters">Starters</string>
+
+
+</resources>
